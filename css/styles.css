@@ -22,11 +22,11 @@ ul {
     color: #2e2f42;
 }
 
-.header-logo span {
+.header-logo-span {
     color: #4d5ae5;
 }
 
-.header-nav a {
+.header-nav-link {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5; 
@@ -34,12 +34,12 @@ ul {
     color: #2e2f42;
 }
 
-.header-nav a:hover,
-.header-nav a:focus {
+.header-nav-link:hover,
+.header-nav-link:focus {
     color: #404bbf;
 }
 
-.header-address a {
+.header-address-link {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5; 
@@ -48,8 +48,8 @@ ul {
     font-style: normal;
 }
 
-.header-address a:hover,
-.header-address a:focus {
+.header-address-link:hover,
+.header-address-link:focus {
     color: #404bbf;
 }
 
@@ -58,7 +58,7 @@ ul {
     background-color: #2e2f42;
 }
 
-.first-section h1 {
+.first-section-titel {
     font-weight: 700;
     font-size: 56px;
     line-height: 1.07143;
@@ -67,7 +67,7 @@ ul {
     color: #fff;
 }
 
-.first-section button {
+.first-section-button {
     background-color: #4d5ae5;
     box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
     font-weight: 500;
@@ -78,12 +78,12 @@ ul {
     cursor: pointer;
 }
 
-.first-section button:hover,
-.first-section button:focus {
+.first-section-button:hover,
+.first-section-button:focus {
     background-color: #404bbf;
 }
 
-.features-list h3 {
+.features-list-titel {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -91,7 +91,7 @@ ul {
     color: #2e2f42;
 }
 
-.features-list p {
+.features-list-text {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5; 
@@ -103,7 +103,7 @@ ul {
     background-color: #f4f4fd;
 }
 
-.section-team h2{
+.section-team-titel {
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11111; 
@@ -112,11 +112,11 @@ ul {
     color: #2e2f42;
 }
 
-.team-list li {
+.team-list-background {
     background-color: #fff;
 }
 
-.team-list h3 {
+.team-list-name {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -125,7 +125,7 @@ ul {
     color: #2e2f42;
 }
 
-.team-list p {
+.team-list-text {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
@@ -134,7 +134,7 @@ ul {
     color: #434455;
 }
 
-.section-portfolio h2 {
+.section-portfolio-titel {
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11111; 
@@ -143,7 +143,7 @@ ul {
     color: #2e2f42;
 }
 
-.portfolio-list h3 {
+.portfolio-list-titel {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -151,7 +151,7 @@ ul {
     color: #2e2f42;
 }
 
-.portfolio-list p {
+.portfolio-list-subtitel {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5; 
@@ -173,11 +173,11 @@ footer {
     color: #f4f4fd;
 }
 
-.footer-logo span {
+.footer-logo-span {
     color: #4d5ae5;
 }
 
-footer p {
+.footer-text {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5; 
