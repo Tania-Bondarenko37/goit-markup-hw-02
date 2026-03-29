@@ -1,7 +1,7 @@
 body {
     font-family: "Roboto", sans-serif;
     background-color: #fff;
-    color: #2e2f42;
+    color: #434455;
 }
 
 a {
@@ -51,6 +51,10 @@ ul {
 .header-address-link:hover,
 .header-address-link:focus {
     color: #404bbf;
+}
+
+.header-address {
+    font-style: normal;
 }
 
 
