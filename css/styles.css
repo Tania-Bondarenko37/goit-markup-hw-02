@@ -62,7 +62,7 @@ ul {
     background-color: #2e2f42;
 }
 
-.first-section-titel {
+.first-section-title {
     font-weight: 700;
     font-size: 56px;
     line-height: 1.07143;
@@ -87,7 +87,7 @@ ul {
     background-color: #404bbf;
 }
 
-.features-list-titel {
+.features-list-title {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -107,7 +107,7 @@ ul {
     background-color: #f4f4fd;
 }
 
-.section-team-titel {
+.section-team-title {
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11111; 
@@ -138,7 +138,7 @@ ul {
     color: #434455;
 }
 
-.section-portfolio-titel {
+.section-portfolio-title {
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11111; 
@@ -147,7 +147,7 @@ ul {
     color: #2e2f42;
 }
 
-.portfolio-list-titel {
+.portfolio-list-title {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -155,7 +155,7 @@ ul {
     color: #2e2f42;
 }
 
-.portfolio-list-subtitel {
+.portfolio-list-subtitle {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5; 
@@ -163,7 +163,7 @@ ul {
     color: #434455;
 }
 
-footer {
+.footer-background {
     background-color: #2e2f42;
 }
 
